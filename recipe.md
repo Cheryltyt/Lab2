@@ -6,7 +6,7 @@
 - 3/4 cup unsweetened cocoa powder
 - 1 tsp vanilla extract
 - 1 tsp ground cinnamon
-- 1 cup milk
+- 1 1/2 cup milk
 - 2 eggs
 
 ## Instructions:
