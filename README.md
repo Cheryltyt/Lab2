@@ -69,7 +69,7 @@ we'll talk about merge conflicts and how to resolve them.
 Tip: In the Git tool window, you can open the `Console` tab to see the underlying git commands it
 is performing when you ask IntelliJ to perform various git operations for you.
 
-# TASK 2: Let's bake a cake!
+# TASK 2: Let's bake a cake!!
 
 Alice and Bob are planning to bake a cake, but can't agree on which recipe to use. They had
 started working on the recipe in `recipe.md` together, and then each filled in the details of
